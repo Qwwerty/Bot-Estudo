@@ -1,0 +1,11 @@
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp2.0\BotTelegram.deps.json
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp2.0\BotTelegram.runtimeconfig.json
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp2.0\BotTelegram.runtimeconfig.dev.json
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp2.0\BotTelegram.dll
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp2.0\BotTelegram.csprojAssemblyReference.cache
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp2.0\BotTelegram.csproj.CoreCompileInputs.cache
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp2.0\BotTelegram.AssemblyInfoInputs.cache
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp2.0\BotTelegram.AssemblyInfo.cs
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp2.0\BotTelegram.pdb
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp2.0\BotTelegram.dll
+C:\Users\Qwerty\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp2.0\BotTelegram.pdb
